@@ -1,7 +1,7 @@
 # Andrés Iglesias 👋
 ### QA Engineer | SDET | Test Automation Specialist
 
-**[🇪🇸 Español](#-español) | [🇬🇧 English](#-english)**
+**[🇪🇸 Español](#espanol) | [🇬🇧 English](#english)**
 
 ---
 
