@@ -1,13 +1,13 @@
 # Andrés Iglesias 👋
 ### QA Engineer | SDET | Test Automation Specialist
 
-**[🇪🇸 Español](#espanol) | [🇬🇧 English](#english)**
+**[Español](#-español) | [English](#-english)**
 
 ---
 
-# 🇪🇸 Español
+# Español
 
-## 🧪 Sobre mí
+## Sobre mí
 
 Soy QA Engineer / SDET especializado en automatización de pruebas y calidad de software, enfocado en optimizar ciclos de desarrollo y procesos QA. Experiencia en diseño de frameworks de automatización, estrategias de testing y soluciones asistidas por IA.
 
@@ -26,7 +26,7 @@ PowerShell • Bats • GeneXus
 **Monitoreo & Observabilidad**  
 Grafana • Exporters • Métricas • Dashboards
 
-### 🔬 Actualmente explorando
+### Actualmente explorando
 
 - Playwright Agents
 - TestOps
@@ -43,9 +43,9 @@ andresiglesias1996@gmail.com
 
 ---
 
-# 🇬🇧 English
+# English
 
-## 🧪 About me
+## About me
 
 I'm a QA Engineer / SDET specialized in test automation and software quality, focused on optimizing development cycles and QA processes. Experienced in designing automation frameworks, testing strategies, and AI-assisted quality solutions.
 
@@ -64,7 +64,7 @@ PowerShell • Bats • GeneXus
 **Monitoring & Observability**  
 Grafana • Exporters • Metrics • Dashboards
 
-### 🔬 Currently exploring
+### Currently exploring
 
 - Playwright Agents
 - TestOps
