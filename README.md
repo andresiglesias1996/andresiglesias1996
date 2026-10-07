@@ -64,7 +64,16 @@ Soy **SDET (Software Development Engineer in Test)** con experiencia en automati
 |----------|-------------|-------|
 | [pw-framework](https://github.com/andresiglesias1996/pw-framework) | Framework E2E agéntico con Playwright, Allure y AI agents | TypeScript · Playwright · Allure · GitHub Actions |
 | [cy-framework](https://github.com/andresiglesias1996/cy-framework) | Framework E2E con Cypress Studio AI, Allure y CI/CD | JavaScript · Cypress · Allure · GitHub Actions |
+| [infrastructure-observability-lab](https://github.com/andresiglesias1996/infrastructure-observability-lab) | Lab de monitoreo con Prometheus, Grafana, Blackbox y escenarios de incidentes | Docker · Prometheus · Grafana · Loki |
 
+## 📊 Allure Reports
+
+| Framework | Reporte desplegado |
+|-----------|--------------------|
+| pw-framework | [ver reporte](https://andresiglesias1996.github.io/pw-framework) |
+| cy-framework | [ver reporte](https://andresiglesias1996.github.io/cy-framework) |
+
+---
 ---
 
 ## 🔭 Explorando Actualmente
@@ -130,7 +139,17 @@ I'm a **Software Development Engineer in Test (SDET)** with experience in test a
 |---------|-------------|-------|
 | [pw-framework](https://github.com/andresiglesias1996/pw-framework) | Agentic E2E framework with Playwright, Allure and AI agents | TypeScript · Playwright · Allure · GitHub Actions |
 | [cy-framework](https://github.com/andresiglesias1996/cy-framework) | E2E framework with Cypress Studio AI, Allure and CI/CD | JavaScript · Cypress · Allure · GitHub Actions |
+| [infrastructure-observability-lab](https://github.com/andresiglesias1996/infrastructure-observability-lab) | Infrastructure monitoring lab with Prometheus, Grafana, Blackbox and incident scenarios | Docker · Prometheus · Grafana · Loki |
+| [infrastructure-observability-lab](https://github.com/andresiglesias1996/infrastructure-observability-lab) | Lab de monitoreo con Prometheus, Grafana, Blackbox y escenarios de incidentes | Docker · Prometheus · Grafana · Loki |
 
+## 📊 Allure Reports
+
+| Framework | Deployed report |
+|-----------|-----------------|
+| pw-framework | [view report](https://andresiglesias1996.github.io/pw-framework) |
+| cy-framework | [view report](https://andresiglesias1996.github.io/cy-framework) |
+
+---
 ---
 
 ## 🔭 Currently Exploring
