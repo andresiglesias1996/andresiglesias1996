@@ -64,8 +64,6 @@ Soy **SDET (Software Development Engineer in Test)** con experiencia en automati
 |----------|-------------|-------|
 | [pw-framework](https://github.com/andresiglesias1996/pw-framework) | Framework E2E agéntico con Playwright, Allure y AI agents | TypeScript · Playwright · Allure · GitHub Actions |
 | [cy-framework](https://github.com/andresiglesias1996/cy-framework) | Framework E2E con Cypress Studio AI, Allure y CI/CD | JavaScript · Cypress · Allure · GitHub Actions |
-| [playwright-allure-historial](https://github.com/andresiglesias1996/playwright-allure-historial) | Framework E2E con reportes Allure desplegados en GitHub Pages | TypeScript · Playwright · GitHub Actions |
-| [cypress-github-actions](https://github.com/andresiglesias1996/cypress-github-actions) | Tests E2E integrados con pipeline CI/CD | JavaScript · Cypress · GitHub Actions |
 
 ---
 
@@ -132,8 +130,6 @@ I'm a **Software Development Engineer in Test (SDET)** with experience in test a
 |---------|-------------|-------|
 | [pw-framework](https://github.com/andresiglesias1996/pw-framework) | Agentic E2E framework with Playwright, Allure and AI agents | TypeScript · Playwright · Allure · GitHub Actions |
 | [cy-framework](https://github.com/andresiglesias1996/cy-framework) | E2E framework with Cypress Studio AI, Allure and CI/CD | JavaScript · Cypress · Allure · GitHub Actions |
-| [playwright-allure-historial](https://github.com/andresiglesias1996/playwright-allure-historial) | E2E framework with Allure reports deployed to GitHub Pages | TypeScript · Playwright · GitHub Actions |
-| [cypress-github-actions](https://github.com/andresiglesias1996/cypress-github-actions) | E2E tests integrated with CI/CD pipeline | JavaScript · Cypress · GitHub Actions |
 
 ---
 
