@@ -21,7 +21,7 @@
 <a name="español"></a>
 ## 👨‍💻 Sobre mí
 
-Soy **SDET (Software Development Engineer in Test)** con experiencia en automatización de pruebas, desarrollo backend y arquitectura de calidad. Me especializo en construir frameworks de testing robustos, integrar pipelines CI/CD y aplicar IA al ciclo de QA.
+Soy **SDET (Software Development Engineer in Test)** con experiencia en automatización de pruebas, desarrollo de software y arquitectura de calidad. Me especializo en construir frameworks de testing robustos, integrar pipelines CI/CD y aplicar estrategias de calidad a lo largo de todo el ciclo de desarrollo.
 
 No solo encuentro bugs — construyo los sistemas que los previenen.
 
@@ -29,30 +29,35 @@ No solo encuentro bugs — construyo los sistemas que los previenen.
 
 ## 🛠️ Stack Técnico
 
-**Testing & Automatización**
+**Testing**
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure_Report-FF6C37?style=flat)
+![GxTest](https://img.shields.io/badge/GxTest-0033A0?style=flat)
+![Bats](https://img.shields.io/badge/Bats-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Tipos de testing:** Funcional · Regresión · Smoke · Exploratorio · Accesibilidad · API
 
 **Lenguajes**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
-**Backend & Dev**
+**Desarrollo**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![GeneXus](https://img.shields.io/badge/GeneXus-0033A0?style=flat)
 
-**CI/CD & DevOps**
+**CI/CD & Observabilidad**
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ---
@@ -98,7 +103,7 @@ No solo encuentro bugs — construyo los sistemas que los previenen.
 <a name="english"></a>
 ## 👨‍💻 About Me
 
-I'm a **Software Development Engineer in Test (SDET)** with experience in test automation, backend development, and quality architecture. I specialize in building robust testing frameworks, integrating CI/CD pipelines, and applying AI to the QA cycle.
+I'm a **Software Development Engineer in Test (SDET)** with experience in test automation, software development, and quality architecture. I specialize in building robust testing frameworks, integrating CI/CD pipelines, and applying quality strategies across the full development lifecycle.
 
 I don't just find bugs — I build the systems that prevent them.
 
@@ -106,30 +111,35 @@ I don't just find bugs — I build the systems that prevent them.
 
 ## 🛠️ Tech Stack
 
-**Testing & Automation**
+**Testing**
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure_Report-FF6C37?style=flat)
+![GxTest](https://img.shields.io/badge/GxTest-0033A0?style=flat)
+![Bats](https://img.shields.io/badge/Bats-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Testing types:** Functional · Regression · Smoke · Exploratory · Accessibility · API
 
 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
-**Backend & Dev**
+**Development**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![GeneXus](https://img.shields.io/badge/GeneXus-0033A0?style=flat)
 
-**CI/CD & DevOps**
+**CI/CD & Observability**
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ---
