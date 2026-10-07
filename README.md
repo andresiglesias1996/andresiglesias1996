@@ -72,20 +72,11 @@ No solo encuentro bugs — construyo los sistemas que los previenen.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andresiglesias1996&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andresiglesias1996&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
 ---
 
 ## 🔭 Explorando Actualmente
 
-- **Playwright Agents** — automatización guiada por IA
+- **Framework de calidad agéntica** — arquitectura de agentes de IA para testing autónomo end-to-end
 - **LLMs aplicados a QA** — generación de casos de prueba con modelos de lenguaje
 - **TestOps** — observabilidad y métricas de calidad a escala empresarial
 
@@ -154,20 +145,11 @@ I don't just find bugs — I build the systems that prevent them.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andresiglesias1996&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andresiglesias1996&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
 ---
 
 ## 🔭 Currently Exploring
 
-- **Playwright Agents** — AI-guided automation
+- **Agentic quality framework** — AI agent architecture for autonomous end-to-end testing
 - **LLMs for QA** — test case generation with language models
 - **TestOps** — quality observability and metrics at enterprise scale
 
@@ -179,3 +161,4 @@ Looking for an SDET who understands both code and quality? Let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/iglesiasandres/)
 [![Email](https://img.shields.io/badge/Email-Write%20me-EA4335?style=flat&logo=gmail)](mailto:andresiglesias1996@gmail.com)
+
