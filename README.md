@@ -23,7 +23,6 @@
 
 Soy **SDET (Software Development Engineer in Test)** con experiencia en automatización de pruebas, desarrollo de software y arquitectura de calidad. Me especializo en construir frameworks de testing robustos, integrar pipelines CI/CD y aplicar estrategias de calidad a lo largo de todo el ciclo de desarrollo.
 
-No solo encuentro bugs — construyo los sistemas que los previenen.
 
 ---
 
@@ -96,7 +95,6 @@ No solo encuentro bugs — construyo los sistemas que los previenen.
 
 I'm a **Software Development Engineer in Test (SDET)** with experience in test automation, software development, and quality architecture. I specialize in building robust testing frameworks, integrating CI/CD pipelines, and applying quality strategies across the full development lifecycle.
 
-I don't just find bugs — I build the systems that prevent them.
 
 ---
 
